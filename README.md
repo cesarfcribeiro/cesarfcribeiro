@@ -4,6 +4,9 @@
 
 Me chamo Cesar Carvalho, tenho 27 anos e sou natural de Belo Horizonte. Atualmente, curso Ciência da Computação na ESDHC. Sou apaixonado por tecnologia e estou em busca da minha primeira oportunidade na área.
 
+📧 **Email:** [cesarfcribeiro@gmail.com](mailto:cesarfcribeiro@gmail.com)  
+🔗 **LinkedIn:** [www.linkedin.com/in/cesarfcribeiro](https://www.linkedin.com/in/cesarfcribeiro)
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -32,7 +35,6 @@ Me chamo Cesar Carvalho, tenho 27 anos e sou natural de Belo Horizonte. Atualmen
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -61,15 +63,15 @@ Me chamo Cesar Carvalho, tenho 27 anos e sou natural de Belo Horizonte. Atualmen
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=cesarfcribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarfcribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
 
