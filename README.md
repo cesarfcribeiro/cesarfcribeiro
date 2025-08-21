@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Cesar Carvalho, tenho 27 anos e sou natural de Belo Horizonte. Atualmente, curso Ciência da Computação na ESDHC. Sou apaixonado por tecnologia e estou em busca da minha primeira oportunidade na área.
+Me chamo Cesar Carvalho, tenho 27 anos e sou natural de Belo Horizonte. Atualmente, curso Analise e Desenvolvimento de Sistemas na UNA. Sou apaixonado por tecnologia e estou em busca da minha primeira oportunidade na área.
 
 📧 **Email:** [cesarfcribeiro@gmail.com](mailto:cesarfcribeiro@gmail.com)  
 🔗 **LinkedIn:** [www.linkedin.com/in/cesarfcribeiro](https://www.linkedin.com/in/cesarfcribeiro)
